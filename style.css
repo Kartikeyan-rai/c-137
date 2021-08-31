@@ -1,0 +1,20 @@
+body{
+    background-size: cover;
+}
+.heading{width: 100%;
+    margin:0px;
+font-size: medium;}
+.copy_right{bottom: 0px;
+  position: fixed;
+  margin: 0;
+  width: 100%;
+  background-color: blue;
+  color: white;
+  text-align: center;
+}
+canvas
+{
+box-shadow: 5px 5px 5px lightgrey;
+border-radius: 10px;
+margin-top: 130px;
+}
